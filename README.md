@@ -1,4 +1,4 @@
-## Hey! My name is Kaity, I am currently studying at The Tech Academy.
+# Hey :wave:! My name is Kaity, I am currently studying at The Tech Academy.
 
 I am enrolled in the C# and .NET Framework bootcamp and I am well on my way to graduate soon!
 
