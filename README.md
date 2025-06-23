@@ -1,10 +1,10 @@
-# :wave:! Hi, I'm Kaity! 
+# 👋 Hi, I'm Kaity! 
 
-I'm currently a student at The Tech Academy, working hard toward graduating from the C# and .NET Framework Bootcamp.
+I'm currently a student at @The Tech Academy, working hard towards graduating from the C# and .NET Framework Bootcamp.
 
 ## 💻 About Me
 
-I'm passionate about software developement and I'm gaining hands-on experience across the full stack --<br>
+I'm passionate about software developement and gaining hands-on experience across the full stack -- 
 from front-end design (my favorite!) to back-end logic and databases. I'm always learning, building, and looking
 for ways to grow. <br>
 Whether it's developing clean, responsive web interfaces or diving into the architechture of a .NET application,
