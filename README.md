@@ -1,4 +1,4 @@
-### :wave:! Hi, I'm Kaity! 
+# :wave:! Hi, I'm Kaity! 
 
 I'm currently a student at The Tech Academy, working hard toward graduating from the C# and .NET Framework Bootcamp.
 
