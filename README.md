@@ -20,5 +20,5 @@ Here's a snapshop of the tools I've worked with and continue to refine:
 
 ## 🔗 Let's Connect!
 I'm always open to collaboration, feedback, or just a friendly chat about tech and learning experiences.<br>   
-You can reach out to me via LinkedIn or here on GitHub.<br>
+You can reach out to me via [LinkedIn](www.linkedin.com/in/kaitybadgley) or here on GitHub.<br>
 Thanks for stopping by -- I'd love to work with you on your next project!
