@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kaity! 
 
-I'm currently a student at The Tech Academy, working hard towards graduating from the C# and .NET Framework Bootcamp.
-
 ## 💻 About Me
 
 I'm passionate about software developement and gaining hands-on experience across the full stack -- 
